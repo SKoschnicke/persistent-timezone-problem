@@ -1,3 +1,5 @@
+*Update:* This problem is fixed since `persistent-postgresql-2.1.5`. [Issue in persistent Repository](https://github.com/yesodweb/persistent/issues/391)
+
 Example for problem with `timestamp` columns in postgres.
 
 This is a default scaffolded yesod site with postgres database. Using
